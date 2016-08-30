@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "F:/Xilinx/ece3700_ASSGINMENT1/LED_Control.xst" -ofn "F:/Xilinx/ece3700_ASSGINMENT1/LED_Control.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc6slx16-csg324-2 LED_Control.ngc LED_Control.ngd  

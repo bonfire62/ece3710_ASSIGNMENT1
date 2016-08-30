@@ -1,0 +1,40 @@
+Release 14.7 ngdbuild P.20131013 (nt)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+
+Command Line: F:\Xilinx\14.7\ISE_DS\ISE\bin\nt\unwrapped\ngdbuild.exe -intstyle
+ise -dd _ngo -nt timestamp -i -p xc6slx16-csg324-2 LED_Control.ngc
+LED_Control.ngd
+
+Reading NGO file "F:/Xilinx/ece3700_ASSGINMENT1/LED_Control.ngc" ...
+Loading design module "F:\Xilinx\ece3700_ASSGINMENT1/LED_Control.ngc"...
+WARNING:NgdBuild:578 - Design contains no instances.
+Gathering constraint information from source properties...
+Done.
+
+Resolving constraint associations...
+Checking Constraint Associations...
+Done...
+
+Checking expanded design ...
+ERROR:NgdBuild:605 - logical root block 'LED_Control' with type 'LED_Control' is
+   unexpanded. Symbol 'LED_Control' is not supported in target 'spartan6'.
+
+Partition Implementation Status
+-------------------------------
+
+  No Partitions were found in this design.
+
+-------------------------------
+
+NGDBUILD Design Results Summary:
+  Number of errors:     1
+  Number of warnings:   1
+
+Total memory usage is 153956 kilobytes
+
+Total REAL time to NGDBUILD completion:  2 sec
+Total CPU time to NGDBUILD completion:   1 sec
+
+One or more errors were found during NGDBUILD.  No NGD file will be written.
+
+Writing NGDBUILD log file "LED_Control.bld"...

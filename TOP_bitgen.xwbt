@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=D:\Xilinx\ece3710_Assignment1\TOP.ncd
+OUTFILE=D:\Xilinx\ece3710_Assignment1\TOP.bit
+FAMILY=Spartan6
+PART=xc6slx16-2csg324
+WORKINGDIR=D:\Xilinx\ece3710_Assignment1
+LICENSE=WebPack
+USER_INFO=211145826_0_0_015

@@ -1,0 +1,8 @@
+INTSTYLE=impact
+INFILE=D:\Xilinx\ece3710_Assignment1\impact.xsl
+OUTFILE=D:\Xilinx\ece3710_Assignment1\impact.xsl
+FAMILY=Single
+PART=Single
+WORKINGDIR=D:\Xilinx\ece3710_Assignment1
+LICENSE=iMPACT
+USER_INFO=iMPACT
